@@ -29,10 +29,10 @@ The hud and the different types of light are there to learn how OpenGl works wit
 ## Some Images
 
 This is the view of the whole map when paused.
-![Paused](http://)
+![Paused](https://github.com/Jazzzy/GS_CO_FirstOpenGLProject/blob/master/readmeResources/img_paused.png)
 
 This is a capture of gameplay where you shoot the frogs (and you read those awesome bullet sounds).
-![Gameplay](http://)
+![Gameplay](https://github.com/Jazzzy/GS_CO_FirstOpenGLProject/blob/master/readmeResources/img_gameplay.png)
 
 If the frogs hit you enough you might die.
-![Dead](http://)
+![Dead](https://github.com/Jazzzy/GS_CO_FirstOpenGLProject/blob/master/readmeResources/img_died.png)
