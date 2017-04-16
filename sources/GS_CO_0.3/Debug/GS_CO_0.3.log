@@ -1,0 +1,15 @@
+﻿  sound.cpp
+c:\users\usuario\dropbox\juego\final\gs_co_0.3\gs_co_0.3\sound.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+c:\users\usuario\dropbox\juego\final\gs_co_0.3\gs_co_0.3\sound.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+  Mundo.cpp
+  Generating Code...
+  Compiling...
+  player.cpp
+  main.cpp
+  colisiones.cpp
+c:\users\usuario\dropbox\juego\final\gs_co_0.3\gs_co_0.3\colisiones.cpp(564): warning C4101: 'x2' : unreferenced local variable
+c:\users\usuario\dropbox\juego\final\gs_co_0.3\gs_co_0.3\colisiones.cpp(564): warning C4101: 'x1' : unreferenced local variable
+c:\users\usuario\dropbox\juego\final\gs_co_0.3\gs_co_0.3\colisiones.cpp(564): warning C4101: 'x3' : unreferenced local variable
+c:\users\usuario\dropbox\juego\final\gs_co_0.3\gs_co_0.3\colisiones.cpp(893): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+  GS_CO_0.3.vcxproj -> C:\Users\Usuario\Dropbox\JUEGO\FINAL\GS_CO_0.3\Debug\GS_CO_0.3.exe
