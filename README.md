@@ -1,6 +1,8 @@
 # GS_CO_FirstOpenGLProject
 This is a repository for an old college project in which I try to do something with OpenGL for the first time, don't be too harsh about it hehe. If you want to run it, the .exe inside the .zip in the releases tab in GitHub should work in Windows, please feel free to ask me if it doesn't.
 
+Also, let's just say that our teacher was not in sync with the current standards so we had to use legady OpenGL. No shaders unfortunately. This issue was pointed out a bunch of times to him by the class and the university but we had to keep working with old libraries. At the time I was wishing I could write a shader, at least I am able to learn those things by myself now :D 
+
 ## Gameplay
 I implemented a very simple FPS with some frogs that hunt you down inside a box-like environment. The controlls used are:
 
